@@ -1,0 +1,5 @@
+# Essential packages for Linear Regression Visualizer
+streamlit
+numpy
+plotly
+pandas
